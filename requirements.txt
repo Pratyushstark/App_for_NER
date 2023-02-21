@@ -1,5 +1,0 @@
-streamlit
-spacy
-spacy-streamlit
-doc2txt
-beautifulsoup
